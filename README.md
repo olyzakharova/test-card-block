@@ -1,5 +1,6 @@
 # test-card-block
 
+[Ссылка на проект](https://olyzakharova.github.io/test-card-block/)
 
 В рамках задания необходимо придумать дизайн для карточки товара, заверстать его и закодить.
 Данные о товаре приходят с сервера, запрос отправляем на https://store.tildacdn.com/api/tgetproduct/
